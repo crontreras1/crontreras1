@@ -1,0 +1,18 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '* */12 * * *' # Cada 12 horas
+    workflow_dispatch:
+
+jobs:
+  build: 
+    runs-on: ubuntu-latest
+    name: crontreras1
+    
+    steps:
+      - uses: actions/checkout@v2.3.4
+        
+      - uses: Readme-Workflow/recent-activity@v2.4.1
+        env: 
+          GITHUB-TOKEN: ${{ secert.GITHUB_TOKEN }}
