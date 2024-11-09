@@ -15,4 +15,4 @@ jobs:
         
       - uses: Readme-Workflow/recent-activity@v2.4.1
         env: 
-          GITHUB-TOKEN: ${{ secert.GITHUB_TOKEN }}
+          GITHUB-TOKEN: ${{ secret.GITHUB_TOKEN }}
