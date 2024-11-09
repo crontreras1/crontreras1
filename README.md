@@ -31,8 +31,8 @@
 </p>
 
 <h3>👷🏻‍♂️ Current Projects </h3>
-<!--START-SECTION:activity-->
-<!--END-SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:last_update-->
 
 <h3>📈 Github Stats</h3>
 <table><tr><td valign="top" width="50%">
