@@ -1,4 +1,4 @@
-<h1 align='center'>Hi there  👋, I'm Cristian</h1>
+<h1 align='center'>Hi there  👋, I'm Cristian
 
 <p align='center'>👨‍💻 FrontEnd Dev. | 👨‍🚀 Platzi Student</p>
 
@@ -29,6 +29,10 @@
   <img style='height: 30px;' src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
 
 </p>
+
+<h3>👷🏻‍♂️ Current Projects </h3>
+<!--START-SECTION:activity-->
+<!--END-SECTION:activity-->
 
 <h3>📈 Github Stats</h3>
 <table><tr><td valign="top" width="50%">
