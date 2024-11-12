@@ -32,14 +32,14 @@
 
 <h3>👷🏻‍♂️ Current Projects </h3>
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [crontreras1/my-react-context-app](https://github.com/crontreras1/my-react-context-app)<br>
+1. 📔 Created new repository [crontreras1/my-use-reducer-app](https://github.com/crontreras1/my-use-reducer-app)<br>
 2. 📔 Created new repository [crontreras1/my-react-context-app](https://github.com/crontreras1/my-react-context-app)<br>
-3. ⬆️ Pushed 2 commit(s) to [crontreras1/my-react-router-app](https://github.com/crontreras1/my-react-router-app)<br>
-4. 📔 Created new repository [crontreras1/my-react-router-app](https://github.com/crontreras1/my-react-router-app)<br>
-5. ⬆️ Pushed 2 commit(s) to [crontreras1/platzi-react-avanzado](https://github.com/crontreras1/platzi-react-avanzado)<br>
+3. 📔 Created new repository [crontreras1/my-react-context-app](https://github.com/crontreras1/my-react-context-app)<br>
+4. ⬆️ Pushed 2 commit(s) to [crontreras1/my-react-router-app](https://github.com/crontreras1/my-react-router-app)<br>
+5. 📔 Created new repository [crontreras1/my-react-router-app](https://github.com/crontreras1/my-react-router-app)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, November 11th, 2024, 1:11:14 PM
+Last Updated: Tuesday, November 12th, 2024, 1:37:39 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3>📈 Github Stats</h3>
