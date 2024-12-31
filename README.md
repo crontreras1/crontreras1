@@ -32,14 +32,14 @@
 
 <h3>👷🏻‍♂️ Current Projects </h3>
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 1 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
-2. ⬆️ Pushed 3 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
-3. ⬆️ Pushed 2 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
-4. 📔 Created new repository [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
-5. ⬆️ Pushed 1 commit(s) to [crontreras1/desarrollo-web-rapido-con-astro](https://github.com/crontreras1/desarrollo-web-rapido-con-astro)<br>
+1. 📔 Created new repository [crontreras1/platzi-state-machines-in-reactjs](https://github.com/crontreras1/platzi-state-machines-in-reactjs)<br>
+2. ⬆️ Pushed 1 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
+3. ⬆️ Pushed 3 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
+4. ⬆️ Pushed 2 commit(s) to [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
+5. 📔 Created new repository [crontreras1/react-testing-library](https://github.com/crontreras1/react-testing-library)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Monday, December 30th, 2024, 1:04:36 PM
+Last Updated: Tuesday, December 31st, 2024, 1:39:50 AM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3>📈 Github Stats</h3>
