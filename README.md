@@ -32,10 +32,11 @@
 
 <h3>👷🏻‍♂️ Current Projects </h3>
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [crontreras1/developer-portfolio](https://github.com/crontreras1/developer-portfolio)<br>
+1. 📔 Created new repository [crontreras1/portfolio-web](https://github.com/crontreras1/portfolio-web)<br>
+2. 📔 Created new repository [crontreras1/developer-portfolio](https://github.com/crontreras1/developer-portfolio)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Sunday, August 10th, 2025, 2:21:20 AM
+Last Updated: Sunday, August 10th, 2025, 12:49:46 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 <h3>📈 Github Stats</h3>
